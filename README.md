@@ -7,6 +7,6 @@ Please paste a copy of the data file (loan_data.csv) in your documents or where 
 
 To save the plots, create a new folder and use the os module to change the working directory. Lines 10-12
 
-Libraries Required: NumPy, Pandas, Seaborn and Matplotlib
+Libraries Required: NumPy, Pandas, os, Seaborn and Matplotlib
 
 I have used a Random State for my Train Test split, your results will be the same as mine. If you wish to obtain different results, specify the new random state in line 79.
